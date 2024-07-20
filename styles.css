@@ -1,0 +1,36 @@
+html{
+
+    scroll-behavior: smooth;
+} 
+        body {
+
+            background-color: black;
+            color: rgb(242, 255, 0);
+        }
+
+        a{
+
+            color: rgb(42, 165, 89);
+        }
+
+        section{
+
+            height: 100vh;
+        }
+
+        .blue{
+
+            background-color: aqua;
+            color: rgb(22, 23, 23);
+        }
+        .red{
+
+            background-color: rgb(98, 255, 0);
+            color: rgb(217, 229, 235);
+        }
+
+        .yellow{
+
+            background-color: rgb(115, 0, 255);
+            color: rgb(87, 90, 92);
+        }
